@@ -7,6 +7,7 @@ import 'package:my_portfolio/widgets/main_mobile.dart';
 import 'package:my_portfolio/widgets/projects_section.dart';
 import 'package:my_portfolio/widgets/skills_desktop.dart';
 import 'package:my_portfolio/widgets/skills_mobile.dart';
+// ignore: avoid_web_libraries_in_flutter
 import 'dart:js' as js;
 import '../constants/size.dart';
 
