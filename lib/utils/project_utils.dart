@@ -34,12 +34,10 @@ List<ProjectUtils> hobbyProjectUtils = [
   ProjectUtils(
       image: 'assets/projects/home_screen_crzl.jpg',
       title: 'CRZL',
-      subtitle:
-          'A crossword game to play with friends',
+      subtitle: 'A crossword game to play with friends',
       androidLink:
           'https://play.google.com/store/apps/details?id=tech.abstractsolutions',
-      iosLink:
-          ''),
+      iosLink: ''),
 ];
 
 // ###############
@@ -52,16 +50,15 @@ List<ProjectUtils> workProjectUtils = [
         'This is a mobile app used to trade stocks on the Zimbabwe Stock Exchange (ZSE)',
     androidLink:
         'https://play.google.com/store/apps/details?id=zw.co.escrow.ctradelive',
-    iosLink:
-        "",
+    iosLink: "",
   ),
   ProjectUtils(
-    image: 'assets/projects/corp1.png',
-    title: 'Corpserve Zambia',
-    subtitle:
-        'A mobile app for shareholders in Zambia to view and make inquiries on their shareholdings and attend Annual General Meetings',
-    androidLink: "https://play.google.com/store/apps/details?id=zm.co.corpserve_zm"
-  ),
+      image: 'assets/projects/corp1.png',
+      title: 'Corpserve Zambia',
+      subtitle:
+          'A mobile app for shareholders in Zambia to view their shareholdings and attend Annual General Meetings',
+      androidLink:
+          "https://play.google.com/store/apps/details?id=zm.co.corpserve_zm"),
   ProjectUtils(
     image: 'assets/projects/luse_mobile.png',
     title: 'LuSE Mobile',
